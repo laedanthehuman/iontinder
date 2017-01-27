@@ -1,0 +1,18 @@
+.person {
+ 
+  #card-stack {
+    width: 100%;
+    height: 200px;
+    margin: 100px auto 0;
+    position: relative;
+  }
+ 
+  #card-stack ion-card {
+    border-radius: 5px;
+    position: absolute;
+    text-align: center;
+    top: 3%;
+    height: 100%;
+  }
+ 
+}
